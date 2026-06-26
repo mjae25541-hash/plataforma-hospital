@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/webhook/:path*",
+      "destination": "https://mariajose-n8n.rjtyg0.easypanel.host/webhook/:path*"
+    }
+  ]
+}
